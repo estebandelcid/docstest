@@ -3,6 +3,7 @@
 Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
 change 1
 change 2
+change 3
 * Guide pages
 * Navigation
 * Customizations
