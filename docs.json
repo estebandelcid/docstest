@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "ruby",
+  "theme": "ocean",
   "name": "Test via GH",
   "colors": {
     "primary": "#16A34A",
