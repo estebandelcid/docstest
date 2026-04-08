@@ -12,8 +12,8 @@
           {
             "group": "Get Started",
             "pages": [
-              "introduction",
               "quickstart",
+              "introduction",
               "development",
               "testing-file"
             ]
