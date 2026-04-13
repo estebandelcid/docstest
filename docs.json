@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "ocean",
+  "theme": "emerald",
   "name": "Test via GH",
  
   "favicon": "/favicon.svg",
