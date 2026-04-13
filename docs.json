@@ -1,6 +1,8 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "emerald",
+  "theme":{
+      preset: "emerald",
+    },
   "name": "Test via GH",
  
   "favicon": "/favicon.svg",
