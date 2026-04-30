@@ -14,10 +14,10 @@
           {
             "group": "Get Started",
             "pages": [
-              "get-starter/testing-file",
-              "get-starter/quickstart",
-              "get-starter/introduction",
-              "get-starter/development",
+              "testing-file",
+              "quickstart",
+              "introduction",
+              "development",
             ]
           },
           {
