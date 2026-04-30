@@ -1,5 +1,5 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
+  "$schema": "https",
   "theme":{
       "preset": "emerald"
     },
@@ -14,10 +14,10 @@
           {
             "group": "Get Started",
             "pages": [
+              "testing-file",
               "quickstart",
               "introduction",
               "development",
-              "testing-file"
             ]
           },
           {
