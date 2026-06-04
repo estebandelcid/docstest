@@ -1,6 +1,7 @@
 {
   "name": "My Docs",
   "description": "Lenguaje Prueba",
+  "languages": ["en", "es"],
   "navigation": [
     {
       "tab": "Inicio",
