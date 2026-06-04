@@ -1,14 +1,16 @@
 {
   "name": "My Docs",
+  "description": "Lang test",
   "languages": ["en", "es"],
   "navigation": [
     {
-      "group": "Getting Started",
-      "pages": [
-        "get-starter/introduction",
-        "get-starter/quickstart",
-        "get-starter/development"
+      "tab": "Getting Started",
+      "groups": [
+        {
+          "group": "Get Started",
+          "pages": ["get-starter/introduction", "get-starter/quickstart", "get-starter/development"]
+        }
       ]
-    }
+    },
   ]
 }
