@@ -7,7 +7,7 @@
       "groups": [
         {
           "group": "Empecemos",
-          "pages": ["empecemos/introduccion", "empecemos/inicio", "empecemos/desarrollo"]
+          "pages": ["empecemos/introduccion", "empecemos/inicio-rapido", "empecemos/desarrollo"]
         }
       ]
     }
