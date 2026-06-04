@@ -1,0 +1,14 @@
+{
+  "name": "My Docs",
+  "languages": ["en", "es"],
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": [
+        "get-starter/introduction",
+        "get-starter/quickstart",
+        "get-starter/development"
+      ]
+    }
+  ]
+}
