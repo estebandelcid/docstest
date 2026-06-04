@@ -11,6 +11,6 @@
           "pages": ["get-starter/introduction", "get-starter/quickstart", "get-starter/development"]
         }
       ]
-    },
+    }
   ]
 }
