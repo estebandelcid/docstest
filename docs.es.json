@@ -1,0 +1,15 @@
+{
+  "name": "My Docs",
+  "description": "Lenguaje Prueba",
+  "navigation": [
+    {
+      "tab": "Inicio",
+      "groups": [
+        {
+          "group": "Empecemos",
+          "pages": ["empecemos/introduccion", "empecemos/inicio", "empecemos/desarrollo"]
+        }
+      ]
+    }
+  ]
+}
